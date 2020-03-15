@@ -1,8 +1,12 @@
 Welcome to TestBoilerPlate's documentation!
 ======================================
 
+.. automodule:: testboilerplate.testboilerplate
+    :members:
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+
    :caption: Contents:
 
    readme

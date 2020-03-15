@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="715baec5-96ca-4e22-9522-d00ecf2a5dac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/testboilerplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testboilerplate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testboilerplate/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testboilerplate/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testboilerplate/testboilerplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/testboilerplate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_testboilerplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_testboilerplate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -43,9 +42,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4581" y="446" key="SettingsEditor" timestamp="1584287844246">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state x="741" y="704" key="SettingsEditor" timestamp="1584289344145">
+      <screen x="0" y="258" width="3840" height="2160" />
     </state>
+    <state x="741" y="704" key="SettingsEditor/3840.0.3840.2160/0.258.3840.2160@0.258.3840.2160" timestamp="1584289344145" />
     <state x="4581" y="446" key="SettingsEditor/3840.0.3840.2160/0.258.3840.2160@3840.0.3840.2160" timestamp="1584287844246" />
     <state x="1188" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1584283758726">
       <screen x="0" y="258" width="3840" height="2160" />
