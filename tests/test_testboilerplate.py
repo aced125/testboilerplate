@@ -8,6 +8,7 @@ from click.testing import CliRunner
 
 from testboilerplate import testboilerplate
 from testboilerplate import cli
+from testboilerplate.testboilerplate import MyNewClass
 
 
 @pytest.fixture
@@ -35,3 +36,12 @@ def test_command_line_interface():
     help_result = runner.invoke(cli.main, ['--help'])
     assert help_result.exit_code == 0
     assert '--help  Show this message and exit.' in help_result.output
+
+
+def test_namer_init():
+    namer = MyNewClass("Thom")
+    return namer
+
+
+def test_namer_greet():
+    test_namer_init().greet()
