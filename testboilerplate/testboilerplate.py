@@ -1,9 +1,12 @@
 """Main module."""
+
+
 class MyNewClass(object):
-    def __init__(self, name: str = 'Laksh'):
+    def __init__(self, name: str = "Laksh"):
         """
-        My Class docs.
-        :param name: Has to be a string.
+        This Class implements naming.
+        Args:
+            name: A type of name, like Thom. Defaults to 'Laksh'.
         """
         self.name = name
 

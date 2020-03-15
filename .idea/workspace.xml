@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="715baec5-96ca-4e22-9522-d00ecf2a5dac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testboilerplate/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testboilerplate/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/cli.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testboilerplate/testboilerplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testboilerplate/testboilerplate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_testboilerplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_testboilerplate.py" afterDir="false" />
     </list>
@@ -24,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,9 +43,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="4581" y="446" key="SettingsEditor" timestamp="1584287844246">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4581" y="446" key="SettingsEditor/3840.0.3840.2160/0.258.3840.2160@3840.0.3840.2160" timestamp="1584287844246" />
     <state x="1188" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1584283758726">
       <screen x="0" y="258" width="3840" height="2160" />
     </state>
     <state x="1188" y="975" key="com.intellij.ide.util.TipDialog/3840.0.3840.2160/0.258.3840.2160@0.258.3840.2160" timestamp="1584283758726" />
+    <state x="5212" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584287892188">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5212" y="1071" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3840.0.3840.2160/0.258.3840.2160@3840.0.3840.2160" timestamp="1584287892188" />
   </component>
 </project>
